@@ -2,9 +2,9 @@
 
 # Hi, I'm Cheyanne
 
-**Geospatial Modeling | Spatial Analysis | Cultural Heritage | Human-Centered Design**
+**Geospatial Modeling  -  Spatial Analysis  -  Cultural Heritage  -  Human-Centered Design**
 
-</div>
+
 
 ## About Me
 
@@ -28,6 +28,7 @@ graph LR
 
 ## Professional Foundation
 
+<div align="left">
 With a foundation in both healthcare and cultural heritage work, I bring precision, analytical rigor, and accountatbility to complex data enviroments:
 
 ```
@@ -50,14 +51,18 @@ These expereinces have strengthened my ability to:
 ├── Communicate technical findings to diverse stakeholders
 └── Navigate both modern and legacy information systems
 ```
+</div>
 
 ## 🎯 What I'm Building
+<div align="left">
 
 I’m building a career that combines the analytical precision and data‑driven organization from my professional background with a growing focus on urbanism, architectural heritage, and spatial storytelling. I’m fascinated by how modern and historical spaces coexist and what they reveal about community and identity.
 
 - **GIS** → Historical data + modern mapping = **place evolution**
 - **SQL** → Clean, reliable geospatial databases
 - **Spatial Design** → Accessibility + human-centered mapping
+
+</div>
 
 ## 🔮 Long-term Vision
 
@@ -80,4 +85,5 @@ modern spaces + historical layers + human-centered design = spatial storytelling
 
 <div align="center">
 <i>Made with ❤️ for spatial storytelling</i>
+</div>
 </div>
