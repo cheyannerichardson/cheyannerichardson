@@ -53,6 +53,8 @@ These expereinces have strengthened my ability to:
 
 ## 🎯 What I'm Building
 
+I’m building a career that combines the analytical precision and data‑driven organization from my professional background with a growing focus on urbanism, architectural heritage, and spatial storytelling. I’m fascinated by how modern and historical spaces coexist and what they reveal about community and identity.
+
 - **GIS** → Historical data + modern mapping = **place evolution**
 - **SQL** → Clean, reliable geospatial databases
 - **Spatial Design** → Accessibility + human-centered mapping
@@ -63,10 +65,7 @@ These expereinces have strengthened my ability to:
 **Blend** traditional design + sustainable urban planning
 
 ```
-modern spaces
-+ historical layers  
-+ human-centered design
-= spatial storytelling
+modern spaces + historical layers + human-centered design = spatial storytelling
 ```
 
 ## 🌐 Let's Connect
