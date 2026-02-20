@@ -8,7 +8,7 @@
 
 ## About Me
 
-I’m a GIS professional with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and geospatial technologies. I’m interested in how everyday spaces—both modern and historical—reveal layers of culture, memory, and design, and how geospatial tools can help preserve their stories within a changing urban landscape.
+I’m a GIS analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and geospatial technologies. I’m interested in how everyday spaces—both modern and historical—reveal layers of culture, memory, and design, and how geospatial tools can help preserve their stories within a changing urban landscape.
 
 ```mermaid
 graph LR
