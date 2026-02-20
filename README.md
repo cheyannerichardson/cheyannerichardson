@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cheyanne
+# Hi, I'm Cheyanne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Geospatial Modeling  -  Spatial Analysis  -  Cultural Heritage  -  Human-Centered Design**
 
@@ -87,8 +87,4 @@ I’m building a career that combines the analytical precision and data‑driven
 **Open to projects:** GIS | Data Visualization | Architectural Preservation | Digital Heritage Mapping | Human-Centered Design
 
 ---
-
-<div align="center">
-<i>Made with ❤️ for spatial storytelling</i>
-</div>
 </div>
