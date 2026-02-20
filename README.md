@@ -1,17 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Cheyanne Richardson
+# Hi, I'm Cheyanne
 
-![GIS Mapping](https://raw.githubusercontent.com/username/username.github.io/main/banner.png)
-**| GIS | Spatial Analysis | Cultural Heritage | Human-Centered Design**
+**Geospatial Modeling | Spatial Analysis | Cultural Heritage | Human-Centered Design**
 
 </div>
 
-## 🌍 About Me
+## About Me
 
-**GIS professional** blending **cultural resource management** + **occupational therapy** → **spatial data science**
-
-I map how **everyday spaces reveal culture, memory, and design** – preserving stories in changing urban landscapes.
+I’m a GIS professional with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and geospatial technologies. I’m interested in how everyday spaces—both modern and historical—reveal layers of culture, memory, and design, and how geospatial tools can help preserve their stories within a changing urban landscape.
 
 ```mermaid
 graph LR
@@ -25,15 +22,17 @@ graph LR
 
 | Learning | Status | Projects |
 |----------|--------|----------|
-| 🔍 **QGIS** | 🟡 Building | Map design, spatial analysis |
-| 💾 **SQL** | 🟢 Active | Database workflows, data cleaning |
-| 📊 **Excel** | 🟢 Strong | Data workflows, analysis |
+| 🔍 **QGIS** | 🟡 Building | Map design, spatial analysis, and data visiulziaition |
+| 💾 **SQL** | 🟢 Active | Database querying and management |
+| 📊 **Excel** | 🟢 Strong | Data cleaning and analytical workflows |
 
-## 💼 Professional Foundation
+## Professional Foundation
+
+With a foundation in both healthcare and cultural heritage work, I bring precision, analytical rigor, and accountatbility to complex data enviroments:
 
 ```
-Occupational Therapy (Healthcare)
-├── Medicare-compliant documentation
+Occupational Therapy
+├── Create accurate, compliance-ready technical documentation
 ├── Workflow optimization
 └── Regulated data standards
 
@@ -42,6 +41,14 @@ Cultural Resource Management
 ├── Texas Historical Commission
 ├── Artifact cataloging
 └── Data validation + integrity
+```
+These expereinces have strengthened my ability to:
+
+```
+├── Organize and validate structured datasets
+├── Uphold data integrity and consistenty
+├── Communicate technical findings to diverse stakeholders
+└── Navigate both modern and legacy information systems
 ```
 
 ## 🎯 What I'm Building
