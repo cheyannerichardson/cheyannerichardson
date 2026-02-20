@@ -68,11 +68,12 @@ I’m building a career that combines the analytical precision and data‑driven
 
 **Study hanok architecture** @ Jeonbuk National University  
 **Blend** traditional design + sustainable urban planning
-
+<div align="center">
+  
 ```
 modern spaces + historical layers + human-centered design = spatial storytelling
 ```
-
+</div>
 ## 🌐 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=portfolio)](https://yourwebsite.com)
