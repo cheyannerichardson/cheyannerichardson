@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cheyanne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Cheyanne <img src="./happy_sheltie.gif" width="100px">
 
 **Geospatial Modeling  -  Spatial Analysis  -  Cultural Heritage  -  Human-Centered Design**
 
