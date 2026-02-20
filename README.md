@@ -66,19 +66,23 @@ I’m building a career that combines the analytical precision and data‑driven
 
 ## 🔮 Long-term Vision
 
-**Study hanok architecture** @ Jeonbuk National University  
-**Blend** traditional design + sustainable urban planning
-
-
 > *modern spaces + historical layers + human-centered design = spatial storytelling*
+
+<div align='left'>
+
+**🎯 Future Goal:** Study **hanok architecture** at Jeonbuk National University
+
+**🌟 Mission:** Blend traditional design principles with sustainable, people-centered urban planning
+
+</div>
+
 
 
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=portfolio)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:you@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/cheyanne-richardson)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:cheyanne.richardson@proton.me)
 
 **Open to projects:** GIS | Data Visualization | Architectural Preservation | Digital Heritage Mapping | Human-Centered Design
 
