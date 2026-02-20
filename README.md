@@ -12,10 +12,10 @@ I’m a GIS analysit with a background in cultural resource management and occup
 
 ```mermaid
 graph LR
-  A[Occupational Therapy] --> B[GIS + Spatial Analysis]
-  C[Cultural Heritage] --> B
-  D[QGIS SQL Excel] --> B
-  B --> E[Urbanism Architecture Storytelling]
+  A([Occupational Therapy]) --> B([GIS + Spatial Analysis])
+  C([Cultural Heritage]) --> B
+  D([QGIS SQL Excel]) --> B
+  B --> E([Urbanism Architecture Storytelling])
 ```
 
 ## 🛠️ Current Toolkit
