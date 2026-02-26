@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. I’m passionate about using data analysis to revel how everyday spaces—both modern and historical—reveal patterns of culture, memory, and design, and how spatial analytics tools can preserve those insights amid urban change.
+I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. I explore how everyday spaces—historical and modern—reveal patterns of culture, memory, and design, using data tools to uncover insights about urban evolution and community impact.
 
 ```mermaid
 graph LR
@@ -71,7 +71,7 @@ I’m building a career that combines the analytical precision and data‑driven
 
 <div align='left'>
 
-**🎯 Future Goal:** Study **hanok architecture** at Jeonbuk National University
+**🎯 Future Goal:** Bridge data analysis with sustainable, tradition-informed urban design—studying hanok architecture to connect analytics with culturally grounded planning.
 
 **🌟 Mission:** Blend traditional design principles with sustainable, people-centered urban planning
 
