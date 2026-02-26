@@ -2,29 +2,28 @@
 
 # Hi, I'm Cheyanne <img src="./happy_sheltie.gif" width="100px">
 
-**Geospatial Modeling  -  Spatial Analysis  -  Cultural Heritage  -  Human-Centered Design**
-
-
+**Data Analysis - Spatial Visualization - Cultural Heritage - Human-Centered Design**
 
 ## About Me
 
-I’m a GIS analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and geospatial technologies. I’m interested in how everyday spaces—both modern and historical—reveal layers of culture, memory, and design, and how geospatial tools can help preserve their stories within a changing urban landscape.
+I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. I’m passionate about using data analysis to revel how everyday spaces—both modern and historical—reveal patterns of culture, memory, and design, and how spatial analytics tools can preserve those insights amid urban change.
 
 ```mermaid
 graph LR
-  A([Occupational Therapy]) --> B([GIS + Spatial Analysis])
-  C([Cultural Heritage]) --> B
-  D([QGIS SQL Excel]) --> B
-  B --> E([Urbanism Architecture Storytelling])
+   A[Occupational Therapy] --> B[Data Analysis & Spatial Skills]
+    C[Cultural Heritage] --> B
+    D[SQL<br/>Excel<br/>Tableau<br/>Python] --> B
+    B --> E[Urbanism<br/>Architecture<br/>Data Storytelling]
 ```
 
 ## 🛠️ Current Toolkit
 
-| Learning | Status | Projects |
-|----------|--------|----------|
-| 🔍 **QGIS** | 🟡 Building | Map design, spatial analysis, and data visiulziaition |
-| 💾 **SQL** | 🟢 Active | Database querying and management |
-| 📊 **Excel** | 🟢 Strong | Data cleaning and analytical workflows |
+| Toolkit | Learning | Status | Projects |
+|---------|----------|--------|----------|
+| 💾 **SQL** | 🟢 Active | Database querying and management | |
+| 📊 **Excel** | 🟢 Strong | Data cleaning and analytical workflows | |
+| 📈 **Tableau** | 🟡 Building | Interactive dashboards and storytelling | |
+| 🐍 **Python** | 🟡 Building | Data analysis, automation, and scripting | |
 
 ## Professional Foundation
 
@@ -58,8 +57,10 @@ These expereinces have strengthened my ability to:
 
 I’m building a career that combines the analytical precision and data‑driven organization from my professional background with a growing focus on urbanism, architectural heritage, and spatial storytelling. I’m fascinated by how modern and historical spaces coexist and what they reveal about community and identity.
 
-- **GIS** → Historical data + modern mapping = **place evolution**
-- **SQL** → Clean, reliable geospatial databases
+- **SQL** → Clean, reliable data sources  
+- **Excel** → Historical data + modern analysis = **place evolution**  
+- **Tableau** → Accessibility + human-centered visualization  
+- **Python** → Automation + scalable data workflows  
 - **Spatial Design** → Accessibility + human-centered mapping
 
 </div>
