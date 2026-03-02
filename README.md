@@ -6,8 +6,9 @@
 
 ## About Me
 
-I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. My work explores how culture, environment, and community intersect. 
-I analyze how legacy and contemporary spaces reveal patterns of memory, design, and adaptation, using data-driven methods to inform public space planning, urban evolution, and climate‑resilient infrastructure.
+I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. 
+I approach data as both a technical and narrative tool. 
+Through spatial analysis and visualization, I translate complex patterns into accessible insights that inform the evolution of public spaces and urban systems.
 
 ```mermaid
 graph LR
@@ -56,7 +57,8 @@ These expereinces have strengthened my ability to:
 ## 🎯 What I'm Building
 <div align="left">
 
-I’m building a career that combines the analytical precision and data‑driven organization from my professional background with a growing focus on urbanism, architectural heritage, and spatial storytelling. I’m fascinated by how modern and historical spaces coexist and what they reveal about community and identity.
+I’m building a career that blends analytical precision and data‑driven organization with an expanding focus on urban systems, spatial storytelling, and climate‑resilient design.
+My work explores how culture, environment, and community shape one another across time and place.
 
 - **SQL** → Clean, reliable data sources  
 - **Excel** → Historical data + modern analysis = **place evolution**  
@@ -83,7 +85,7 @@ I’m building a career that combines the analytical precision and data‑driven
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/cheyanne-richardson)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:cheyanne.richardson@proton.me)
 
-**Open to projects:** GIS | Data Visualization | Architectural Preservation | Digital Heritage Mapping | Human-Centered Design
+**Open to projects:** I’m interested in projects at the intersection of data visualization, human-centered design, and environmental data, with a focus on public space design and climate-resilient infrastructure planning.
 
 ---
 </div>
