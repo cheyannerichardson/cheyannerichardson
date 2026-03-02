@@ -2,11 +2,12 @@
 
 # Hi, I'm Cheyanne <img src="./happy_sheltie.gif" width="100px">
 
-**Data Analysis - Spatial Visualization - Cultural Heritage - Human-Centered Design**
+**Data Analysis - Spatial Visualization - Human-Centered Design - Climate‑Resilient Planning**
 
 ## About Me
 
-I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. I explore how everyday spaces—historical and modern—reveal patterns of culture, memory, and design, using data tools to uncover insights about urban evolution and community impact.
+I’m a data analysit with a background in cultural resource management and occupational therapy, now focusing on spatial data analysis and visualization. My work explores how culture, environment, and community intersect. 
+I analyze how legacy and contemporary spaces reveal patterns of memory, design, and adaptation, using data-driven methods to inform public space planning, urban evolution, and climate‑resilient infrastructure.
 
 ```mermaid
 graph LR
@@ -76,9 +77,6 @@ I’m building a career that combines the analytical precision and data‑driven
 **🌟 Mission:** Blend traditional design principles with sustainable, people-centered urban planning
 
 </div>
-
-
-
 
 ## 🌐 Let's Connect
 
